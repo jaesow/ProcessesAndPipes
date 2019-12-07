@@ -1,2 +1,2 @@
 # ProcessesAndPipes
-OS Lab 3 Part 1 Processes and Pipes
+OS Lab 3 Part 2 Processes and Pipes
